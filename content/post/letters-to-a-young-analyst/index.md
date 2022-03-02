@@ -10,4 +10,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Advice on starting your investment journey
+Advice on starting your investment journey。就是我们的开始。欢迎您
