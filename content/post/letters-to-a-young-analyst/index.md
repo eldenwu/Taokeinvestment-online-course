@@ -1,5 +1,5 @@
 ---
-title: Letters to a young analyst
+title: Letters to a young analyst in the 21th century so what
 date: 2022-03-01T23:51:51.988Z
 draft: false
 featured: false
