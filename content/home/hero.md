@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Online Course Template
+title: Taoke Investment
 hero_media: student.svg
 design:
   background:
@@ -12,7 +12,7 @@ design:
     text_color_light: false
 cta:
   url: course/
-  label: Explore our courses
+  label: Start your disciplined investing
   icon_pack: fas
   icon: user-graduate
 cta_alt:
