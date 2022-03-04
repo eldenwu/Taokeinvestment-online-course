@@ -1,5 +1,5 @@
 ---
-title: Elden Wu
+title: Elden Wu, CFA
 role: ""
 bio: ""
 interests: []
