@@ -14,7 +14,7 @@ subtitle:
 
 content:
   # Contact (edit or remove options as required)
-  email: test@example.org
+  email: elden.nan.wu@hotmail.com
   appointment_url: 'https://calendly.com'
   contact_links:
   - icon: comments
