@@ -9,7 +9,7 @@ appearance:
   theme_day: custom
   theme_night:
   font: Mr robot
-  font_size: L
+  font_size: xs
 
 # SEO
 
