@@ -25,8 +25,7 @@ advanced:
 ---
 <br>
 
-Published with the [Wowchemy Website Builder](https://wowchemy.com/) for Hugo.
 
-Introduce your courses here.
+自己的财富自己做主
 
 <a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://github.com/wowchemy/starter-hugo-online-course" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Online Course template">Star the Online Course template</a><script async defer src="https://buttons.github.io/buttons.js"></script>
