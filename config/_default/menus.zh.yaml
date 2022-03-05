@@ -2,13 +2,17 @@ main:
   - name: 主页
     url: '/'
     weight: 10
-  - name: 课程
+  - name: DIY自主投资
     url: '/course'
     weight: 20
     identifier: courses
-  - name: 数据科学
+  - name: 中国
     url: '/course/example/'
     weight: 10
+    parent: courses
+     - name: 海外
+    url: '/course/example/'
+    weight: 20
     parent: courses
   - name: 博客
     url: '/post'
