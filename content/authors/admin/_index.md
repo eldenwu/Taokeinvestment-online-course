@@ -5,7 +5,8 @@
 #cascade:
 #  _build:
 #    render: never
-#    list: alwaystitle: 吴南,CFA
+#    list: always
+title: 吴南,CFA
 bio: "富达基金机构部资深研究员，岱德咨询创始人。"
 social: 
 - icon: linkedin
