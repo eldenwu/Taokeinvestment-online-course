@@ -10,7 +10,7 @@ headless: true
 weight: 1
 
 # Section title
-title: Hello
+title: 纪律为投资赋能
 
 # Section subtitle
 subtitle:
