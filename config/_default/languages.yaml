@@ -9,14 +9,14 @@ zh:
   #contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-zh:
-languageCode: zh
-contentDir: content/zh
-title: Taoke Investment
-params:
-description: Site description in Chinese...
-menu:
-main:
-- name: 传
-url: '#about'
-weight: 1
+# en:
+# languageCode: en
+# contentDir: content/en
+# title: Taoke Investment
+# params:
+#description: 
+# menu: '/config/_default/menus.en.yaml'
+# main:
+# - name: 
+# url: '#about'
+# weight: 1
