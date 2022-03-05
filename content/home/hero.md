@@ -12,7 +12,7 @@ design:
     text_color_light: false
 cta:
   url: course/
-  label: Explore our courses
+  label: 开始DIY之旅
   icon_pack: fas
   icon: user-graduate
 cta_alt:
