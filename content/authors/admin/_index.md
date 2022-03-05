@@ -1,7 +1,7 @@
 ---
-title: 吴南
+title: 吴南,CFA
 role: ""
-bio: "CFA，富达基金机构部资深研究员，岱德咨询创始人。"
+bio: "富达基金机构部资深研究员，岱德咨询创始人。"
 interests: []
 social: []
 #[]可以不显示
