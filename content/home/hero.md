@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Taoke Investment
+title: 饕客投资
 hero_media: student.svg
 design:
   background:
@@ -12,7 +12,7 @@ design:
     text_color_light: false
 cta:
   url: course/
-  label: Start your disciplined investing
+  label: 开始DIY投资
   icon_pack: fas
   icon: user-graduate
 cta_alt:
@@ -25,8 +25,6 @@ advanced:
 ---
 <br>
 
-Published with the [Wowchemy Website Builder](https://wowchemy.com/) for Hugo.
-
-Introduce your courses here.
+每个人都能成为投资人
 
 <a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://github.com/wowchemy/starter-hugo-online-course" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Online Course template">Star the Online Course template</a><script async defer src="https://buttons.github.io/buttons.js"></script>
