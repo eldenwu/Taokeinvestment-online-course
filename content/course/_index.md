@@ -1,5 +1,5 @@
 ---
-title: 📚 Courses
+title: DIY你的资产配置
 type: page
 
 view: compact
@@ -9,4 +9,4 @@ header:
   image: ""
 ---
 
-Explore our courses below and expand your knowledge!
+实盘验证，可执行的全球配置!

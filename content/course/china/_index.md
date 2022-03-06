@@ -1,7 +1,7 @@
 ---
-title: 📊 Learn Data Science
+title: 📊 中国境内资产配置
 linkTitle: Data Science
-summary: An example of using Wowchemy's Book layout for publishing online courses.
+summary: 打造长期持有，降低换仓，多资产类型的配置方案
 date: '2021-01-24'
 type: book
 ---
