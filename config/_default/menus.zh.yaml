@@ -10,6 +10,10 @@ main:
     url: '/course/china/'
     weight: 10
     parent: courses
+  - name: 全球
+    url: '/course/global/'
+    weight: 20
+    parent: courses
   - name: 博客
     url: '/post'
     weight: 30
