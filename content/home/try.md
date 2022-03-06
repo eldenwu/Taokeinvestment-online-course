@@ -1,10 +1,10 @@
 ---
-title: Ready to learn?
+title:
 subtitle:
 widget: blank
-weight: 50
+weight: 2
 design:
   columns: '1'
 ---
 
-{{% cta cta_link="./course/" cta_text="Explore our courses!" %}}
+{{% cta cta_link="./course/" cta_text="开启DIY投资!" %}}
