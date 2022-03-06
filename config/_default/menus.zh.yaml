@@ -7,7 +7,7 @@ main:
     weight: 20
     identifier: courses
   - name: 中国
-    url: '/course/example/'
+    url: '/course/china/'
     weight: 10
     parent: courses
   - name: 博客
