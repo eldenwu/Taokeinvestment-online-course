@@ -1,5 +1,4 @@
 main:
-  - name: 
   - name: 主页
     url: '/'
     weight: 10
@@ -15,10 +14,10 @@ main:
     url: '/course/global/'
     weight: 20
     parent: courses
-  - name: 博客
+  - name: 饕客说
     url: '/post'
     weight: 30
-  - name: 交流
+  - name: 欢迎交流
     url: '/contact'
     weight: 60
   
