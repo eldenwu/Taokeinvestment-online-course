@@ -1,8 +1,9 @@
 main:
+饕客投资
   - name: 主页
     url: '/'
     weight: 10
-  - name: DIY自主投资
+  - name: DIY策略
     url: '/course'
     weight: 20
     identifier: courses
@@ -17,7 +18,7 @@ main:
   - name: 博客
     url: '/post'
     weight: 30
-  - name: 联系
+  - name: 交流
     url: '/contact'
     weight: 60
   
