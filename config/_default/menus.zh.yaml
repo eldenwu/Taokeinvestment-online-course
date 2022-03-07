@@ -1,5 +1,5 @@
 main:
-饕客投资
+  - name: 
   - name: 主页
     url: '/'
     weight: 10
