@@ -6,36 +6,22 @@ date: '2021-01-24'
 type: book
 ---
 
-{{< figure src="featured.jpg" >}}
+## 策略大纲
 
-{{< toc hide_on="xl" >}}
+## 实施步骤
 
-## What you will learn
-
-- Fundamental {{<hl>}}Python programming skills{{</hl>}}
-- {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
-- Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
-
-## Program overview
-
-The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
-
-## Courses in this program
-
-{{< list_children >}}
-
-## Meet your instructor
+## 策略顾问
 
 {{< mention "admin" >}}
 
 ## FAQs
 
-{{< spoiler text="Are there prerequisites?" >}}
-There are no prerequisites for the first course.
+{{< spoiler text="资产所需规模?" >}}
+可大可小
 {{< /spoiler >}}
 
-{{< spoiler text="How often do the courses run?" >}}
-Continuously, at your own pace.
+{{< spoiler text="需要掌握多少金融知识?" >}}
+请看匹配的金融小课
 {{< /spoiler >}}
 
-{{< cta cta_text="Begin the course" cta_link="python" >}}
+{{< cta cta_text="开始你的组合搭建" cta_link="python" >}}
